@@ -7,7 +7,7 @@ import random
 
 
 def recursion():
-    
+    #Hello there
     hiddenKey = computerKey()
     print("Welcome to the lost key game")
     print("There are 10 boxes, labeled 1-10. The key is in one of them")
